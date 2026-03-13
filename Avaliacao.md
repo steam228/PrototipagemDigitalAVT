@@ -3,7 +3,7 @@ title: Avaliação
 icon: lucide/clipboard-check
 tags: projeto
 status: completed
-hero_image: ../images/09-ufold.png
+hero_image: ../attachments/09-ufold.png
 hero_title: Critérios de Avaliação
 hero_subtitle: Prototipagem Digital
 hero_height: 70vh
