@@ -4,7 +4,7 @@ title: Prototipagem Digital
 hero_image: attachments/01-LabWork.jpg
 hero_title: Prototipagem Digital
 hero_subtitle: “Como Fazer Quase Tudo? - Uma Introdução”
-hero_height: 70vh
+hero_height: 100vh
 hero_overlay: 0.6
 hero_align: center
 ---
