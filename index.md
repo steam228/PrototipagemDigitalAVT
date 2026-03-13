@@ -1,7 +1,7 @@
 ---
 icon: lucide/cpu
 title: Prototipagem Digital
-hero_image: ../attachments/nemnufare.mp4
+hero_image: ../attachments/
 hero_title: Prototipagem Digital
 hero_subtitle: “Como Fazer Quase Tudo? - Uma Introdução”
 hero_height: 60vh
@@ -30,7 +30,7 @@ hero_align: center
 
 ## Conteúdos
 
-- [Programa e Avaliação](Avaliacao.md)
+- [Avaliação](Avaliacao.md)
 - [Calendário](Calendario.md)
 - [Documentação Final](Enunciado.md)
 - [Sumários de Aula](Sumarios/index.md)
