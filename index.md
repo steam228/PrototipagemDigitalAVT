@@ -11,7 +11,7 @@ hero_align: center
 
 # Prototipagem Digital
 
-**Docente:** André Rocha (arocha@eselx.ipl.pt)
+**Docentes:** André Rocha (arocha@eselx.ipl.pt), Daniel Osika (dosika@eselx.ipl.pt)
 **Sala(s) de aula:** 209 e Fablab
 
 ## 📜 Programa
