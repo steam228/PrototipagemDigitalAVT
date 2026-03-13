@@ -16,3 +16,15 @@ hero_align: center
 CAD 2D e 3D e Desenho Paramétrico, aplicado às diferentes tecnologias no laboratório
 
 
+# Conteúdos
+
+## 1 - Recursos Autodesk Fusion 360
+
+### Introdução ao Fusion 360
+
+![](attachments/Gemini_Generated_Image_cu4ppocu4ppocu4p.png)
+[100IntroFusion360](../../Recursos/100IntroFusion360.md)
+
+
+
+
