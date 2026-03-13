@@ -1,7 +1,7 @@
 ---
 icon: lucide/cpu
 title: Prototipagem Digital
-hero_image: ../attachments/
+hero_image: ../attachments/01-LabWork.jpg
 hero_title: Prototipagem Digital
 hero_subtitle: “Como Fazer Quase Tudo? - Uma Introdução”
 hero_height: 60vh
@@ -14,7 +14,7 @@ hero_align: center
 **Docentes:** André Rocha (arocha@eselx.ipl.pt), Daniel Osika (dosika@eselx.ipl.pt)
 **Sala(s) de aula:** 209 e Fablab
 
-## 📜 Programa
+## Programa!
 
 1. "Como fazer quase tudo" ?
     1. Design Aberto;
@@ -27,6 +27,8 @@ hero_align: center
 6. **Impressão 3D**,
 7. **CNC 3D** - Estratégias e técnicas de fresagem 3D,
 8. Introdução à Computação Física - Micro:bit.
+   
+
 
 ## Conteúdos
 
@@ -35,5 +37,3 @@ hero_align: center
 - [Documentação Final](Enunciado.md)
 - [Sumários de Aula](Sumarios/index.md)
 
----
-*Short URL: [https://bit.ly/3CnJq5b](https://bit.ly/3CnJq5b)*
