@@ -1,7 +1,7 @@
 ---
 icon: lucide/cpu
 title: Prototipagem Digital
-hero_image: ../attachments/01-LabWork.jpg
+hero_image: attachments/01-LabWork.jpg
 hero_title: Prototipagem Digital
 hero_subtitle: “Como Fazer Quase Tudo? - Uma Introdução”
 hero_height: 60vh

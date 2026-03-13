@@ -3,7 +3,7 @@ title: Sumários
 icon: lucide/book-marked
 tags: projeto
 status: in-progress
-hero_image: ../attachments/_PJA6561.png
+hero_image: attachments/_PJA6561.png
 hero_title: Sumários de Aula
 hero_subtitle: Prototipagem Digital - 2026
 hero_height: 80vh
