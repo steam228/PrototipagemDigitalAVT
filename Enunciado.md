@@ -6,7 +6,7 @@ status: in-progress
 hero_image: https://fablabbenfica.pt/opencallDDP2025/images/IMG_2681.jpg
 hero_title: Prototipagem Digital
 hero_subtitle: Documentação Final e Projetos Individuais
-hero_height: 40vh
+hero_height: 70vh
 hero_overlay: 0.2
 hero_align: center
 ---
