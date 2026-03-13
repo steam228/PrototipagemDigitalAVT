@@ -1,12 +1,12 @@
 ---
-title: "Calendário"
+title: Calendário
 icon: lucide/calendar-days
 tags: projeto
 status: completed
-hero_image: ../images/hero.png
+hero_image: ../attachments/07-swirl.png
 hero_title: Calendário 2026
 hero_subtitle: Prototipagem Digital - Quartas-feiras
-hero_height: 40vh
+hero_height: 70vh
 hero_overlay: 0.2
 hero_align: center
 ---
