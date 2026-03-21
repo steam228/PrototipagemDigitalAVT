@@ -17,21 +17,21 @@ Plano de atividades para as aulas de **Prototipagem Digital**.
 
 ## Cronograma Semanal
 
-| Semana | Data      | Descrição da Atividade                                                                     | Prof. |
-| ------ | --------- | ------------------------------------------------------------------------------------------ | ----- |
-| **01** | 11/03     | Softwares - Documentação, Desenho 2 e 3D                                                   | D     |
-| **02** | 18/03     | Corte 2D - Introdução ao corte a laser, corte de vinil                                     | D     |
-| **03** | 25/03     | Corte 2D - Introdução ao corte a laser, corte de vinil + Desenho Paramétrico para Corte 2D | D     |
-| **—**  | **01/04** | **Pausa Letiva (Páscoa)**                                                                  | __    |
-| **—**  | **08/04** | **Pausa Letiva (Páscoa)**                                                                  | __    |
-| **04** | 15/04     | Impressão 3D                                                                               | A     |
-| **05** | 22/04     |                                                                                            | D     |
-| **06** | 29/04     | Corte CNC 2D - Preparação de ficheiros para maquinação 2D / Impressão 3D                   | D     |
-| **07** | 06/05     | Apoio a Projetos                                                                           | D     |
-| **08** | 13/05     | Micro:BIT                                                                                  | A     |
-| **09** | 20/05     | Desenvolvimento de Projetos                                                                | D     |
-| **10** | 27/05     | Desenvolvimento de Projetos                                                                | D     |
-| **11** | 03/06     | Micro Maker Faire @ Fablab Benfica                                                         | A / D |
+| Semana | Data      | Descrição da Atividade                                                                                             | Prof. |
+| ------ | --------- | ------------------------------------------------------------------------------------------------------------------ | ----- |
+| **01** | 11/03     | - Apresentação Professores e Aluno(a)s<br>- Softwares -  Desenho 2 e 3D                                            | D     |
+| **02** | 18/03     | - Autodesk Fusion 360 - Introdução<br>- Impressão 3D (slicers)                                                     | D     |
+| **03** | 25/03     | - Raster vs Vector<br>- Apoio aos Projetos (Impressão 3D)                                                          | D     |
+| **—**  | **01/04** | **Pausa Letiva (Páscoa)**                                                                                          | __    |
+| **—**  | **08/04** | **Pausa Letiva (Páscoa)**                                                                                          | __    |
+| **04** | 15/04     | - Documentação de Projetos em Fablab<br>- Corte CNC 2D - Preparação de ficheiros para maquinação 2D / Impressão 3D | A     |
+| **05** | 22/04     | - Apoio aos Projetos (Corte 2D)                                                                                    | D     |
+| **06** | 29/04     | -  Corte 2D - Introdução ao corte a laser, corte de vinil + Desenho Paramétrico para Corte 2D                      | D     |
+| **07** | 06/05     | - Apoio a Projetos                                                                                                 | D     |
+| **08** | 13/05     | - Micro:BIT (?)                                                                                                    | A     |
+| **09** | 20/05     | - Desenvolvimento de Projetos                                                                                      | D     |
+| **10** | 27/05     | - Desenvolvimento de Projetos                                                                                      | D     |
+| **11** | 03/06     | - Micro Maker Faire @ Fablab Benfica                                                                               | A / D |
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Aula 10 - Desenvolvimento"
+title: "Aula 10 - Desenvolvimento de Projetos"
 icon: lucide/book-open
 tags: aula
 status: in-progress
 hero_image: ../../images/hero.png
-hero_title: Aula 11
+hero_title: Desenvolvimento de Projetos
 hero_subtitle: 27 de Maio
 hero_height: 40vh
 hero_overlay: 0.2

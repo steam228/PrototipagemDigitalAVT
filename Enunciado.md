@@ -20,7 +20,7 @@ hero_align: center
 ## Trabalho de Grupo
 #### Em **grupo** têm que organizar **tutoriais detalhados de cada máquina utilizada**:
 
-[(Cada um deve seguir a estrutura do tutorial da CNC)](https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/)
+[(Cada um deve ter como referencia a estrutura do tutorial da CNC)](https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/)
 
 1. **Como desenhar para esta tecnologia?**
 2. Como preparar um ficheiro para a máquina será utilizada?
@@ -34,7 +34,7 @@ hero_align: center
 #### Máquinas a Documentar
 1. **Corte 2D**
 	1. Corte de vinil (sticker) - Tutorial detalhado de utilização da máquina de corte Sillouette
-	2. Corte a Laser (por confirmar)
+	2. ~~Corte a Laser~~ (por confirmar)
    
 2. **Impressão 3D** - Distribuição das diferentes máquinas pelos diferentes grupos para realização de tutoriais detalhados.
    
@@ -43,5 +43,6 @@ hero_align: center
 
 Cada página de grupo deverá conter uma sub-página de galeria de projectos (integrada na estrutura do template) que deverá albergar uma página a apresentar cada um dos projetos individuais dos diferentes membros do grupo - *Galeria com links para cada um dos projetos individuais*
 
-1. Os projetos são individuais e de temática completamente livre. (nesta liberdade podem inclusive albergar objetos, protótipos e processos ligados a qq outra UC)
-2. A documentação deverá conter imagens bem produzidas do resultado final e um texto explicativo do resultado e do processo (ilustrado sempre que necessário).
+1. Os projetos são individuais e de temática completamente livre. (nesta liberdade podem inclusive albergar objetos, protótipos e processos ligados a qq outra UC).
+2. Os projetos podem utilizar uma ou mais tecnologias estudadas.
+3. A documentação deverá conter imagens bem produzidas do resultado final e um texto explicativo do resultado e do processo (ilustrado sempre que necessário).

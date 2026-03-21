@@ -1,10 +1,10 @@
 ---
-title: Aula 1 - Softwares
+title: Aula 1 - Apresentação / Softwares
 icon: lucide/book-open
 tags: aula
 status: in-progress
 hero_image: ../attachments/04-eucalipto.jpg
-hero_title: Softwares - Documentação e Desenho
+hero_title: Apresentação / Softwares - Desenho 2 e 3D
 hero_subtitle: 11 de Março
 hero_height: 80vh
 hero_overlay: 0.4
