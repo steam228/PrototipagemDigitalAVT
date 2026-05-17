@@ -21,6 +21,8 @@ Este repositório é a **entrega final do vosso grupo**. Cada commit no `main` a
 | ---- | -------------------------------------------------------------------------- | ------------------------------- |
 | 50%  | **Tutoriais de Máquinas** (grupo) — 2 tutoriais detalhados, um por máquina | `tutoriais/<nome-da-maquina>/`  |
 | 50%  | **Projeto Integrado** (individual) — um por elemento                       | `experiencias/<numero>-<nome>/` |
+
+
 ## Tutorial Video (este foi criado para design de Produto, qq diferença está no passo a passo abaixo)
 
 https://youtu.be/Q1UCXW5ldT4
