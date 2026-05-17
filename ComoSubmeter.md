@@ -1,6 +1,6 @@
 ---
 title: Como submeter?
-icon: lucide/calendar-days
+icon: lucide/send
 tags: projeto
 status: completed
 hero_image: ../attachments/07-swirl.png
