@@ -1,3 +1,15 @@
+---
+title: Como submeter?
+icon: lucide/calendar-days
+tags: projeto
+status: completed
+hero_image: ../attachments/07-swirl.png
+hero_title: Como submeter?
+hero_subtitle: Galeria
+hero_height: 40vh
+hero_overlay: 0.2
+hero_align: center
+---
 
 # Portfólio de Grupo — Prototipagem Digital
 
@@ -16,7 +28,7 @@ https://youtu.be/Q1UCXW5ldT4
 
 ---
 
-## 0. Setup (uma vez por grupo)
+## 0. Setup (todos os elementos do grupo)
 
 ### Ferramentas
 
@@ -149,7 +161,6 @@ Outras imagens podem ter qualquer nome — só a hero é que tem nome obrigatór
 | ------------------------------- | ------------------------- |
 | `index.md` (qualquer pasta)     | `attachments/hero.jpg`    |
 | Outros ficheiros (sub-páginas)  | `../attachments/hero.jpg` |
-
 O template já está pré-configurado corretamente — basta substituir o `hero.jpg` pela vossa imagem real, mantendo o nome.
 
 ### Vídeos e modelos 3D
