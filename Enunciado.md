@@ -15,7 +15,7 @@ hero_align: center
 (organizada pelo grupo)
 
 !!! note "Modelo Base Obsidian para Documentação"
-      A disponibilizar em breve nesta página.
+      Ver vídeo e ler com atenção: [ComoSubmeter](ComoSubmeter.md)
 
 ## Trabalho de Grupo
 #### Em **grupo** têm que organizar **tutoriais detalhados de cada máquina utilizada**:
